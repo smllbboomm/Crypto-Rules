@@ -1,4 +1,4 @@
-# > OKX / OKEx Core & Web
+# > OKX / OKEx 主站及核心业务
 DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,okex
 DOMAIN-SUFFIX,okx.com
@@ -8,8 +8,16 @@ DOMAIN-SUFFIX,okex.net
 DOMAIN-SUFFIX,okx.org
 DOMAIN-SUFFIX,okx.me
 DOMAIN-SUFFIX,okx.info
+DOMAIN-SUFFIX,okx.vip
+DOMAIN-SUFFIX,okex.vip
 
-# > OKX Subdomains & API Services
+# > OKCoin 关联体系（欧易原品牌与合规合资站）
+DOMAIN-KEYWORD,okcoin
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okcoin.cn
+DOMAIN-SUFFIX,okcoin.com.au
+
+# > 欧易调度 DNS 与 API 服务
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
@@ -34,20 +42,22 @@ DOMAIN-SUFFIX,okx-dns20.com
 DOMAIN-SUFFIX,okxapi.com
 DOMAIN-SUFFIX,okexapi.com
 
-# > OKX Static, CDN & Short URLs
+# > 静态资源、CDN 与官方集团资产
 DOMAIN-SUFFIX,okxstatic.com
 DOMAIN-SUFFIX,okexstatic.com
 DOMAIN-SUFFIX,okg.com
-DOMAIN-SUFFIX,okex.vip
-DOMAIN-SUFFIX,okx.vip
-DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okgroup.com
 
-# > OKX Web3, Wallet & Explorer (OKLink)
+# > OKLink 区块链浏览器与数据分析
 DOMAIN-KEYWORD,oklink
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,oklink.io
+
+# > OKX 公链与 Layer2 生态 (X Layer / OKC)
 DOMAIN-SUFFIX,okc.network
 DOMAIN-SUFFIX,x1.tech
+DOMAIN-SUFFIX,xlayer.tech
 
+# > 身份认证 KYC / 人脸视频流 SDK 组件（避免认证时走错节点）
 DOMAIN-SUFFIX,byteplusvod.com
 DOMAIN-SUFFIX,byteoversea.com
