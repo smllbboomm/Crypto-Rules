@@ -1,0 +1,50 @@
+# > OKX / OKEx Core & Web
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,okex
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.net
+DOMAIN-SUFFIX,okex.net
+DOMAIN-SUFFIX,okx.org
+DOMAIN-SUFFIX,okx.me
+DOMAIN-SUFFIX,okx.info
+
+# > OKX Subdomains & API Services
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx-dns3.com
+DOMAIN-SUFFIX,okx-dns4.com
+DOMAIN-SUFFIX,okx-dns5.com
+DOMAIN-SUFFIX,okx-dns6.com
+DOMAIN-SUFFIX,okx-dns7.com
+DOMAIN-SUFFIX,okx-dns8.com
+DOMAIN-SUFFIX,okx-dns9.com
+DOMAIN-SUFFIX,okx-dns10.com
+DOMAIN-SUFFIX,okx-dns11.com
+DOMAIN-SUFFIX,okx-dns12.com
+DOMAIN-SUFFIX,okx-dns13.com
+DOMAIN-SUFFIX,okx-dns14.com
+DOMAIN-SUFFIX,okx-dns15.com
+DOMAIN-SUFFIX,okx-dns16.com
+DOMAIN-SUFFIX,okx-dns17.com
+DOMAIN-SUFFIX,okx-dns18.com
+DOMAIN-SUFFIX,okx-dns19.com
+DOMAIN-SUFFIX,okx-dns20.com
+DOMAIN-SUFFIX,okxapi.com
+DOMAIN-SUFFIX,okexapi.com
+
+# > OKX Static, CDN & Short URLs
+DOMAIN-SUFFIX,okxstatic.com
+DOMAIN-SUFFIX,okexstatic.com
+DOMAIN-SUFFIX,okg.com
+DOMAIN-SUFFIX,okex.vip
+DOMAIN-SUFFIX,okx.vip
+DOMAIN-SUFFIX,ok.ru
+
+# > OKX Web3, Wallet & Explorer (OKLink)
+DOMAIN-KEYWORD,oklink
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,oklink.io
+DOMAIN-SUFFIX,okc.network
+DOMAIN-SUFFIX,x1.tech
