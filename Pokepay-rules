@@ -1,0 +1,19 @@
+# > PokePay 核心全域关键词兜底
+DOMAIN-KEYWORD,pokepay
+
+# > PokePay 核心业务、官网与 App API
+DOMAIN-SUFFIX,pokepay.io
+DOMAIN-SUFFIX,pokepay.net
+DOMAIN-SUFFIX,pokepay.com
+DOMAIN-SUFFIX,pokepay.app
+DOMAIN-SUFFIX,pokepay.xyz
+
+# > 静态资源、图片 CDN 与前端托管
+DOMAIN-SUFFIX,pokepaystatic.com
+DOMAIN-SUFFIX,pokepay-cdn.com
+
+# > 虚拟卡底层发卡行、3DS 验证与 KYC 认证依赖
+DOMAIN-SUFFIX,cardinalcommerce.com
+DOMAIN-SUFFIX,sumsub.com
+DOMAIN-SUFFIX,sumsub.net
+DOMAIN-SUFFIX,veriff.com
