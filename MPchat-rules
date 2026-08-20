@@ -1,0 +1,16 @@
+# > MPChat 核心关键词兜底
+DOMAIN-KEYWORD,mpchat
+DOMAIN-KEYWORD,mpmingpin
+
+# > MPChat 核心域名与业务服务
+DOMAIN-SUFFIX,mpchat.cc
+DOMAIN-SUFFIX,mpchat.com
+DOMAIN-SUFFIX,mpchat.net
+DOMAIN-SUFFIX,mpchat.im
+DOMAIN-SUFFIX,mpchat.app
+DOMAIN-SUFFIX,mpmingpin.com
+
+# > 静态资源、媒体文件 CDN 与 API
+DOMAIN-SUFFIX,mpchatstatic.com
+DOMAIN-SUFFIX,mpchat-cdn.com
+DOMAIN-SUFFIX,mpchat-oss.com
