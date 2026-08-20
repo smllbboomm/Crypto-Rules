@@ -1,0 +1,20 @@
+# > Wise 核心业务与主站
+DOMAIN-KEYWORD,transferwise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wisebusiness.com
+
+# > 静态资源、API、CDN 与短链
+DOMAIN-SUFFIX,wise.live
+DOMAIN-SUFFIX,tw.me
+DOMAIN-SUFFIX,wiselink.com
+
+# > KYC 身份验证与人脸核身核心 SDK（关键，防止认证时断流）
+DOMAIN-SUFFIX,veriff.com
+DOMAIN-SUFFIX,veriff.me
+DOMAIN-SUFFIX,onfido.com
+DOMAIN-SUFFIX,passbase.com
+
+# > 风控安全与行为验证组件
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,funcaptcha.com
