@@ -1,0 +1,26 @@
+# > BiyaPay 核心域名与全域关键词兜底
+DOMAIN-KEYWORD,biyapay
+DOMAIN-KEYWORD,biya
+
+# > BiyaPay 核心业务、官网与各国合规站点
+DOMAIN-SUFFIX,biyapay.com
+DOMAIN-SUFFIX,biyapay.net
+DOMAIN-SUFFIX,biyapay.org
+DOMAIN-SUFFIX,biyapay.info
+DOMAIN-SUFFIX,biyapay.co
+DOMAIN-SUFFIX,biya.global
+DOMAIN-SUFFIX,biyaglobal.com
+
+# > API 接口、行情数据与 WebSocket 调度
+DOMAIN-SUFFIX,api.biyapay.com
+DOMAIN-SUFFIX,ws.biyapay.com
+DOMAIN-SUFFIX,biyawallet.com
+
+# > 静态资源、图片 CDN 与前端加速
+DOMAIN-SUFFIX,biyastatic.com
+DOMAIN-SUFFIX,biyacdn.com
+
+# > KYC 身份验证与安全风控依赖
+DOMAIN-SUFFIX,sumsub.com
+DOMAIN-SUFFIX,sumsub.net
+DOMAIN-SUFFIX,jumio.com
