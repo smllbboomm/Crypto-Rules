@@ -1,0 +1,31 @@
+# Bybit Loon Rule
+# Policy: Taiwan
+# Includes official API endpoints and observed Bybit app/service domains
+
+# Main website / regional domains
+DOMAIN-SUFFIX,bybit.com,Taiwan
+DOMAIN-SUFFIX,bybitglobal.com,Taiwan
+DOMAIN-SUFFIX,bybit-global.com,Taiwan
+DOMAIN-SUFFIX,bybit.biz,Taiwan
+DOMAIN-SUFFIX,bybit-tr.com,Taiwan
+DOMAIN-SUFFIX,bybit.id,Taiwan
+DOMAIN-SUFFIX,bybit.kz,Taiwan
+DOMAIN-SUFFIX,bybitgeorgia.ge,Taiwan
+DOMAIN-SUFFIX,bybit.cloud,Taiwan
+
+# API / infrastructure
+DOMAIN-SUFFIX,bytick.com,Taiwan
+DOMAIN-SUFFIX,bybit-aws.com,Taiwan
+DOMAIN-SUFFIX,bybdc6.com,Taiwan
+DOMAIN-SUFFIX,byd3c3.com,Taiwan
+DOMAIN-SUFFIX,byffbb.com,Taiwan
+DOMAIN-SUFFIX,byabcde.com,Taiwan
+DOMAIN-SUFFIX,byapps.net,Taiwan
+DOMAIN-SUFFIX,bycsi.com,Taiwan
+
+# Bitverse / related Bybit services
+DOMAIN-SUFFIX,bitverse.zone,Taiwan
+DOMAIN-SUFFIX,bybit.com,Taiwan
+
+# Other domains previously observed in Bybit rule sets
+DOMAIN-SUFFIX,manepa.jp,Taiwan
