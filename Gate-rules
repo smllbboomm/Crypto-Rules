@@ -1,0 +1,46 @@
+# > Gate 核心域名与全域关键词兜底
+DOMAIN-KEYWORD,gateio
+DOMAIN-KEYWORD,gateimg
+DOMAIN-KEYWORD,gate-chain
+DOMAIN-KEYWORD,gateres
+
+# > Gate 核心业务与各国合规站点
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.cc
+DOMAIN-SUFFIX,gate.ac
+DOMAIN-SUFFIX,gate.cx
+DOMAIN-SUFFIX,gate.hk
+DOMAIN-SUFFIX,gate.jp
+DOMAIN-SUFFIX,gate.tv
+DOMAIN-SUFFIX,gate.trade
+DOMAIN-SUFFIX,gate.biz
+DOMAIN-SUFFIX,gate.xyz
+
+# > 官方备用域名与镜像通道
+DOMAIN-SUFFIX,gateio.services
+DOMAIN-SUFFIX,gateio.ch
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.fm
+DOMAIN-SUFFIX,gateio.im
+DOMAIN-SUFFIX,gateio.pro
+DOMAIN-SUFFIX,gateio.red
+DOMAIN-SUFFIX,gateio.app
+DOMAIN-SUFFIX,gate.vip
+DOMAIN-SUFFIX,gate.tech
+
+# > 静态资源、图片 CDN 与前端加速集群
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateres.com
+DOMAIN-SUFFIX,gate-img.com
+DOMAIN-SUFFIX,gate-static.com
+
+# > API 接口与行情 WebSocket 调度
+DOMAIN-SUFFIX,gateapi.io
+DOMAIN-SUFFIX,gateioapi.com
+DOMAIN-SUFFIX,gate-api.com
+
+# > GateChain 公链生态与 Web3 钱包
+DOMAIN-SUFFIX,gatechain.io
+DOMAIN-SUFFIX,gatechain.org
+DOMAIN-SUFFIX,gtwallet.com
