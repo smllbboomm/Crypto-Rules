@@ -1,0 +1,29 @@
+# > iFAST 核心关键词兜底
+DOMAIN-KEYWORD,ifast
+DOMAIN-KEYWORD,ifastgb
+
+# > iFAST Global Bank 英国数字银行核心域名
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifastgb.co.uk
+DOMAIN-SUFFIX,ifastfinancial.co.uk
+
+# > iFAST 集团统一身份鉴权、API 接口与网银后台
+DOMAIN-SUFFIX,ifastfinancial.com
+DOMAIN-SUFFIX,ifastnetwork.com
+DOMAIN-SUFFIX,ifastcorp.com
+DOMAIN-SUFFIX,ifastps.com
+DOMAIN-SUFFIX,ifastglobalbank.com
+
+# > 静态资源 CDN 与前端加速
+DOMAIN-SUFFIX,ifaststatic.com
+DOMAIN-SUFFIX,ifastcdn.com
+
+# > 银行开户 KYC 身份认证、人脸活体核身 SDK（关键）
+DOMAIN-SUFFIX,onfido.com
+DOMAIN-SUFFIX,onfido.app
+DOMAIN-SUFFIX,jumio.com
+
+# > 银行风控防护、行为验证与 3D Secure（防拦截）
+DOMAIN-SUFFIX,threatmetrix.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,cardinalcommerce.com
