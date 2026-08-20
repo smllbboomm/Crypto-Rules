@@ -1,0 +1,63 @@
+# > Binance 主站、业务与全域关键词兜底
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,bnapp
+DOMAIN-KEYWORD,saasexch
+DOMAIN-KEYWORD,yingwangtech
+
+# > Binance 核心域名与各国本地合规站
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.sg
+DOMAIN-SUFFIX,binance.je
+DOMAIN-SUFFIX,binance.org
+
+# > 官方备用域名与重定向服务
+DOMAIN-SUFFIX,binance.in
+DOMAIN-SUFFIX,binance.to
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.vip
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.mobi
+
+# > 静态资源、图片 CDN 与加速通道
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,binance.zendesk.com
+DOMAIN-SUFFIX,appsflier.com
+
+# > BNB Chain / BSC 生态与链上基础设施
+DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,bsc.vip
+DOMAIN-SUFFIX,bscscan.com
+
+# > 官方生态服务与钱包 (Trust Wallet / 孵化器)
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,trustwalletapp.com
+DOMAIN-SUFFIX,binance.careers
+DOMAIN-SUFFIX,binance.ventures
+DOMAIN-SUFFIX,binance.gallery
+DOMAIN-SUFFIX,binance.gift
+DOMAIN-SUFFIX,binance.directory
+DOMAIN-SUFFIX,labs.binance.com
+DOMAIN-SUFFIX,academy.binance.com
+DOMAIN-SUFFIX,research.binance.com
