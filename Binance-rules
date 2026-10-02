@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,binance.zendesk.com
 DOMAIN-SUFFIX,appsflier.com
+DOMAIN-SUFFIX,bincdn.com
 
 # > BNB Chain / BSC 生态与链上基础设施
 DOMAIN-SUFFIX,bnbchain.org
@@ -61,3 +62,9 @@ DOMAIN-SUFFIX,binance.directory
 DOMAIN-SUFFIX,labs.binance.com
 DOMAIN-SUFFIX,academy.binance.com
 DOMAIN-SUFFIX,research.binance.com
+DOMAIN-SUFFIX,appsflyer.com
+
+# > 依赖的第三方人机验证与风控
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,arkoselabs.com
